@@ -1,13 +1,15 @@
-import React from "react";
+import React, {useState} from "react";
 
 import styles from "./Navbar.module.css"
+import { getImageUrl } from "../../utilis";
 
 export const Navbar = () => {
-  return 
+  return (
   <nav className={styles.navbar}>
     <a className={styles.title} href="/">Portfolio</a>
     <div className={styles.menu}>
-      <ul>
+      <img className={styles.menuBtn} src={getImageUrl("nav/menuIcon.png")}  alt="menu-button"/>
+      <ul className={styles.menuItems}>
         <li>
           <a href="#about">About</a>
         </li>
@@ -22,5 +24,5 @@ export const Navbar = () => {
         </li>
       </ul>
     </div>
-  </nav>;
+  </nav>)
 };
