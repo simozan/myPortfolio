@@ -1,14 +1,21 @@
-import React from 'react'
+import React from "react";
+import { getImageUrl } from "../../utilis";
+import styles from "./Navbar.module.css";
 
 export const Hero = () => {
   return (
-    <section>
-        <div className="">
-            <h1 className="">
-                Hi, I'm Simone
-            </h1>
-            <p className=""></p>
-        </div>
+    <section className={styles.container}>
+      <div className={styles.content}>
+        <h1 className={styles.title}>Hi, I'm Simone</h1>
+        <p className={styles.description}>
+          I'm a Full Stack dej khbhg uhgv hgv yv hkhuffy yguf uhgy efjn fveloper
+          with 5 years of exjjj vjevn
+        </p>
+        <a href="mailto:simone.zanni.87@gmail.com" className={styles.contactBtn}>Contact Me</a>
+      </div>
+      <img src={getImageUrl("hero/heroImage.png")} alt="Hero image of me" />
+      <div className={styles.topBlur} />
+      <div className={styles.bottomBlur} />
     </section>
-  )
-}
+  );
+};
