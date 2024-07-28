@@ -1,6 +1,7 @@
 import React from "react";
 import { getImageUrl } from "../../utilis";
-import styles from "./Navbar.module.css";
+import styles from "./Hero.module.css"
+
 
 export const Hero = () => {
   return (
@@ -13,7 +14,7 @@ export const Hero = () => {
         </p>
         <a href="mailto:simone.zanni.87@gmail.com" className={styles.contactBtn}>Contact Me</a>
       </div>
-      <img src={getImageUrl("hero/heroImage.png")} alt="Hero image of me" />
+      <img src={getImageUrl("hero/heroImage.png")} alt="Hero image of me" className={styles.heroImg}/>
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
     </section>
