@@ -28,22 +28,22 @@ export const About = () => {
               </p>
             </div>
           </li>
-          <li className="styles.aboutItem">
+          <li className={styles.aboutItem}>
             <img
               src={getImageUrl("about/serverIcon.png")}
               alt="Curson Icon"
             ></img>
-            <div>
+            <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>I have experience developing fasr and optimised API</p>
             </div>
           </li>
-          <li className="styles.aboutItem">
+          <li className={styles.aboutItem}>
             <img
               src={getImageUrl("about/serverIcon.png")}
               alt="UI Icon"
             ></img>
-            <div>
+            <div className={styles.aboutItemText}>
               <h3>UI designer</h3>
               <p>I have designed multiple landing pages and have created design system as well</p>
             </div>
