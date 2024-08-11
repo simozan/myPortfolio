@@ -3,14 +3,14 @@
     "title": "ALL YOU CAN TUPPER",
     "imageSrc": "projects/AllYouCanTupper.png",
     "description": "All you can tupper is a web app for sharing and requesting food. Users can post available food with pick-up details, and others can request and enjoy it. The App is a group project created during the bootcamp in IRONHACK",
-    "skills": ["JavaScript", "Express", "Node"],
+    "skills": ["JavaScript", "Express.js", "Node.Js", "React.Js"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "KIDDIE TASKS HEROES",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "All You Can Tupper is a web app for sharing and requesting food. Users can post available food with pick-up details, and others can request and enjoy it. The App is a group project created during the bootcamp in IRONHACK",
     "skills": ["React", "Express", "Node", "Sass"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
