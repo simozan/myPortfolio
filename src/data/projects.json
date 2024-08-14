@@ -3,7 +3,7 @@
     "title": "ALL YOU CAN TUPPER",
     "imageSrc": "projects/AllYouCanTupper.png",
     "description": "All you can tupper is a web app for sharing and requesting food. Users can post available food with pick-up details, and others can request and enjoy it. The App is a group project created during the bootcamp in IRONHACK",
-    "skills": ["JavaScript", "Express.js", "Node.js", "React.Js"],
+    "skills": ["JavaScript", "HTML", "CSS", "Express.js", "Node.js", "MongoDB"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
@@ -27,7 +27,7 @@
     "title": "NATOURS",
     "imageSrc": "projects/project.png",
     "description": "Natours is a web application developed in an advanced CSS and Sass course. It features a responsive and user-friendly design, using Sass for better CSS organization. NPM handles dependencies and automates tasks, while SVG graphics ensure high-quality visuals.",
-    "skills": ["HTML", "CSS", "JavaScript","DOM manipulation", "Object-Oriented Programming (OOP)" ],
+    "skills": ["HTML", "CSS", "JavaScript", "SASS", "Node.js" ],
     "demo": "https://natours-wheat-five.vercel.app/#section-tours",
     "source": "https://www.github.com"
   },
@@ -35,7 +35,7 @@
     "title": "TRILLO",
     "imageSrc": "projects/project.png",
     "description": "Trillo is a responsive web app from the 'Advanced CSS and Sass' course. It uses Flexbox for an efficient, flexible design and Sass for better CSS management. NPM handles dependencies and task automation, while SVG graphics offer scalable, high-quality visuals.",
-    "skills": ["HTML", "CSS", "JavaScript","DOM manipulation", "Object-Oriented Programming (OOP)" ],
+    "skills": ["HTML", "CSS", "JavaScript", "SASS", "Node.js"],
     "demo": "https://main--trillosz.netlify.app/#",
     "source": "https://www.github.com"
   },
@@ -43,7 +43,7 @@
     "title": "NEXTER",
     "imageSrc": "projects/project.png",
     "description": "Nexter is a responsive web application created as part of the 'Advanced CSS and Sass' online course. It utilizes Flexbox layouts and the Grid for a flexible and efficient design. The project employs Sass for improved CSS management, with NPM handling dependencies and task automation.",
-    "skills": ["HTML", "CSS", "JavaScript","DOM manipulation", "Object-Oriented Programming (OOP)" ],
+    "skills": ["HTML", "CSS", "JavaScript", "SASS", "Node.js" ],
     "demo": "https://nextersz.netlify.app/",
     "source": "https://www.github.com"
   }
