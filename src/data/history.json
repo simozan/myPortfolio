@@ -7,12 +7,11 @@
     "experiences": [
       "Collaborated in the creation of a prototype web application aimed at enhancing efficiency for sustainability-focused companies",
       "Utilized Supabase as the database for the web application.",
-      "Utilized Supabase as the database for the web application.",
       "Developed a REST API for data management using Node.js.",
-      "Contributed to front-end development using React, Remix and Tailwind CSS",
+      "Contributed to front-end development using React (Typescript), Remix and Tailwind CSS",
       "Collaborated effectively within a team environment"
     ],
-    "location": "Munich  (remote)"
+    "location": "Munich (remote)"
   },
   {
     "role": "Architect",
